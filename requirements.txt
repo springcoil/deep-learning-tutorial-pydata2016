@@ -6,3 +6,4 @@ scikit-image
 -e git+https://github.com/mila-udem/fuel.git#egg=fuel
 
 
+pillow>=8.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
